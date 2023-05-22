@@ -5,7 +5,7 @@ include  "connection.php"
 <html lang="english">
 
 <head>
-  <title>exported project</title>
+  <title>SCHOENLAB</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta charset="utf-8" />
   <meta property="twitter:card" content="summary_large_image" />
@@ -524,7 +524,7 @@ include  "connection.php"
             <div class="peopleshoescombyhtmltodesign-fr-eversion15052023103-a2">
               <img src="public/playground_assets/logo100pxcolorpng5010-1dbf-200w.png" alt="LOGO100PXCOLORpng5010" class="peopleshoescombyhtmltodesign-fr-eversion15052023103-logo100pxcol-rpng" />
               <span class="peopleshoescombyhtmltodesign-fr-eversion15052023103-text113">
-                <span>PEOPLE SHOES</span>
+                <span>SCHOENLAB</span>
               </span>
             </div>
             <div class="peopleshoescombyhtmltodesign-fr-eversion15052023103-ulmenumainmenu1">

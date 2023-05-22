@@ -329,7 +329,7 @@ if (isset($_POST["submit"])) {
                 </span>
                 <div class="wwwishoelaundrycombyhtmltodesign-fr-eversion2105202-pmargintop23">
                   <span class="wwwishoelaundrycombyhtmltodesign-fr-eversion2105202-text67">
-                    <span>People Shoes merupakan usaha yang</span>
+                    <span>SchoenLAB merupakan usaha yang</span>
                     <br />
                     <span>bergerak dibidang jasa laundry cuci</span>
                     <br />
